@@ -18,17 +18,6 @@ Recently working on:
 - Workflow Automation
 - Developer Tools
 
-## Current Projects
-
-### UFoundIt
-
-Campus exploration & photo check-in platform  
-React + Node.js + MongoDB + AI moderation + cloud deployment
-
-### AI Workflow-based Job Assistant
-
-Resume analysis, JD matching, cover letter generation, and AI-assisted workflow orchestration
-
 ## Background
 
 Previously worked as a backend developer in the gaming industry, focusing on:
