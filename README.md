@@ -1,45 +1,16 @@
 # About
+Backend-focused developer with 4 years of experience building and maintaining large-scale online systems.
 
-Backend-focused developer with 4 years of experience building and maintaining large-scale online systems, currently exploring modern web and AI-integrated applications.
+Currently exploring:
+- Full-stack web development
+- AI workflow & LLM-integrated applications
+- Cloud deployment and backend systems
+- Interactive web projects
 
-Recently working on:
+## Interests
 
-- Full-stack web applications with React, Node.js, and MongoDB
-- AI workflow-based tools and LLM integrations
-- Backend systems, deployment workflows, and cloud-hosted applications
-- Interactive web projects and indie game development
+Backend Engineering · Full-Stack Development · AI Application Engineering · Distributed Systems · Workflow Automation
 
-## Tech Interests
+## Tech
 
-- Backend Engineering
-- Full-Stack Web Development
-- AI Application Engineering
-- Distributed Systems
-- Workflow Automation
-- Developer Tools
-
-## Background
-
-Previously worked as a backend developer in the gaming industry, focusing on:
-
-- Live online systems
-- Cross-server backend features
-- Production support & debugging
-- Multiplayer system stability
-
-Now transitioning those experiences into modern web and AI-focused applications.
-
-## Tools & Technologies
-
-```text
-JavaScript / TypeScript
-React
-Node.js / Express
-MongoDB / MySQL
-Docker
-Nginx
-Linux
-Git
-REST APIs
-LLM APIs
-```
+JavaScript / TypeScript · React · Node.js · MongoDB · Docker · Linux · REST APIs · LLM APIs
