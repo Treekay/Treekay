@@ -2,7 +2,7 @@
 
 Backend Engineer · Full-Stack Developer
 
-[LinkedIn:https://www.linkedin.com/in/shukai-huang/](https://www.linkedin.com/in/shukai-huang/) · [Portfolio:https://treekay.github.io](https://treekay.github.io)
+[LinkedIn:www.linkedin.com/in/shukai-huang/](https://www.linkedin.com/in/shukai-huang/) · [Portfolio:treekay.github.io](https://treekay.github.io)
 
 - Backend Developer with 4 years of experience in the gaming industry
 - Worked on live online systems, multiplayer backend features, and production support
